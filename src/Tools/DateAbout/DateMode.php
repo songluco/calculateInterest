@@ -10,6 +10,7 @@ namespace Songluco\CalculateInterest\ToolsDateAbout;
 
 
 use Faker\Provider\zh_TW\DateTime;
+use Songluco\CalculateInterest\Tools\DateAbout\DateAbout;
 
 class DateMode
 {
