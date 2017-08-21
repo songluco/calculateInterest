@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Songluco\\CalculateInterest\\": "src/"
+            "Songluco\\CalculateInterest\\": "src"
         },
         "files": [
             "src/Helpers/helpers.php"
